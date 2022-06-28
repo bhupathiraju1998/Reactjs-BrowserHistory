@@ -1,0 +1,38 @@
+.list-style {
+  display: flex;
+  padding: 5px;
+  width: 80%;
+  justify-content: space-between;
+}
+.first-part {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.time {
+  font-family: Roboto;
+  font-size: 10px;
+  font-weight: 400;
+  margin-right: 40px;
+  color: #475569;
+}
+.icon {
+  height: 25px;
+  width: 25px;
+  margin-right: 10px;
+}
+.heading {
+  font-family: Roboto;
+  font-size: 10px;
+  font-weight: 700;
+  margin-right: 20px;
+  color: #475569;
+}
+
+.url {
+  font-family: Roboto;
+  font-size: 10px;
+  font-weight: 700;
+  margin-right: 20px;
+  color: #64748b;
+}
